@@ -10,7 +10,6 @@
     "node-fetch": "^2.6.7"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node eventEmmitter/index.ts",
     "start:dev": "tsnd eventEmmitter/index.ts"
   },
